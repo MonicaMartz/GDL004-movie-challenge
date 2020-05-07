@@ -1,6 +1,7 @@
 # GOT Epic  :movie_camera: :movie_camera:
 
 
+ https://erika-nath.github.io/GDL004-movie-challenge/src
 
 ## Introducción
 
@@ -64,7 +65,8 @@ Como usuario me gustaria poder seleccionar un capitulo mediante su poster y que 
 - Titulo
 - Sinopsis
 
+### Proyecto Terminado
+![Imagen Principa ](./src/img/imagePagina.png)
 
-
-
+ 
 
